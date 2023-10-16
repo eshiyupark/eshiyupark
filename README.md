@@ -1,4 +1,4 @@
-# Hi everyone, I'm Esh Park
+# Hello, I'm Esh Park
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
   <ul>
