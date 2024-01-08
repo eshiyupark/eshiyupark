@@ -2,14 +2,14 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
   <ul>
-    <li>👨‍🔧 I'm a full stack software developer</li>
+    <li>👨‍🔧 I'm a full stack software developer and currently the Le Wagon Melbourne City Manager</li>
     <li>📍 Based in Melbourne/Sydney</li>
     <li>🏢 I come from over 10 years of experience as a Project Manager and Leader in the Royal Australian Air Force</li>
     <li>📖 I am a graduate of the Le Wagon Web Development course
     <li>🌱 I'm currently learning React/TypeScript</li>
     <li>📮 You can contact me directly at: eshiyupark@gmail.com</b>
   </ul>
-Full Stack Software Developer with a background of more than 10 years as a Project Manager and Leader in the Royal Australian Air Force. With an excitement for technological innovation and creativity in problem solving, I am committed to synergising my extensive experience and qualities with cutting-edge software development. As an Officer I led teams of various sizes across a range of dynamic and high-pressure environments, equipping me with the expertise necessary to excel in my pursuits in the tech industry.
+With an excitement for technological innovation and creativity in problem solving, I am committed to synergising my extensive experience and qualities with cutting-edge software development. As an Officer I led teams of various sizes across a range of dynamic and high-pressure environments, equipping me with the expertise necessary to excel in my pursuits in the tech industry.
 </p>
 
 ## 🖥️ My skills :
