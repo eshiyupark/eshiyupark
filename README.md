@@ -9,7 +9,7 @@
     <li>🌱 I'm currently learning React/TypeScript</li>
     <li>📮 You can contact me directly at: eshiyupark@gmail.com</b>
   </ul>
-With an excitement for technological innovation and creativity in problem solving, I am committed to synergising my extensive experience and qualities with cutting-edge software development. As an Officer I led teams of various sizes across a range of dynamic and high-pressure environments, equipping me with the expertise necessary to excel in my pursuits in the tech industry.
+With an excitement for technological innovation and creativity in problem solving, I am committed to synergising my extensive experience and qualities with imaginative software development. I am always looking for new ways to expand my coding skills, and I endeavour to combine this with my experience in leading teams across dynamic environments in order to deliver critical outcomes in the tech industry.
 </p>
 
 ## 🖥️ My skills :
